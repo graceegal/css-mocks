@@ -27,4 +27,6 @@ body {
   width: 100px;
   height: 100px;
   background-color: blue;
+  position: absolute;
+  right: 0px;
 }
