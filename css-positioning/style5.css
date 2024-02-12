@@ -33,7 +33,6 @@ body {
   height: 100px;
   background-color: blue;
   position: fixed;
-  left: 0px;
-  top: 0px;
-
+  left: 5px;
+  top: 5px;
 }
